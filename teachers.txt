@@ -1,0 +1,4 @@
+{A001, Rabia Tabussum, rabia@fast.com, rabia123, 03430269944, 4, 20000}
+{A002, Sobia ifthikar, sobia@fast.com, Sobia123, 03430269944, 4, 20000}
+{A003, Nazia Imam, nauzia@fast.com, nazia123, 0333344444, 4, 20000}
+{A004, Zainab Asif, zainab@fast.com, zainab13, 03333944465, 3, 15000}

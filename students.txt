@@ -1,0 +1,4 @@
+{k2012, Arsalan Ahmed, arsalan@fast.com, 12345678, 034698979, 12, B-, P}
+{k0941, Arham Rasheed, Arham@fast.com, arham123, 030928774, 10, A+, 100}
+{k5897, kevin Mitnick, ken@fast.com, 12399958, 036978412, 10, A+, 90}
+{k9999, Yash Lal, yash@fast.com, 98765432, 03334477889, 12, A+, 100}
